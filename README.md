@@ -46,10 +46,6 @@ We also tackled a machine learning challenge by:
 - `cleaned_data.csv` – Exported dataset (optional)
 - `cleaned_data.xlsx` – Exported dataset (optional)
 
-## 📈 Preview
-
-![preview](optional-screenshot.png)
-
 ## 📜 License
 
 This project is licensed under the MIT License.
